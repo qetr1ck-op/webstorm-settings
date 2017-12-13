@@ -1,0 +1,9 @@
+<application>
+  <component name="TaskStorage">
+    <tasks>
+      <task priority="Normal" completed="false" estimated="0" created="1512051515918" actual="0" highlighted="false" highlightingtype="Red" title="test" description="">
+        <task priority="Normal" completed="false" estimated="0" created="1512051582867" actual="0" highlighted="false" highlightingtype="Red" title="foobar" description="" />
+      </task>
+    </tasks>
+  </component>
+</application>
