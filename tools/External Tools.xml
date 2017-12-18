@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
   <tool name="Prettify" description="Run prettier for the current file" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\Users\Comp1\AppData\Roaming\npm\prettier.cmd" />
-      <option name="PARAMETERS" value="--no-semi --single-quote --print-width 120 --write $FilePathRelativeToProjectRoot$" />
+      <option name="COMMAND" value="F:\projects\viovendi-web\node_modules\.bin\prettier.cmd" />
+      <option name="PARAMETERS" value="--single-quote --print-width 120 --write $FilePathRelativeToProjectRoot$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
