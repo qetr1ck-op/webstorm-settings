@@ -505,6 +505,12 @@
         <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="900b8d" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="ff8add" />

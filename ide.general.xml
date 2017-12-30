@@ -3,6 +3,7 @@
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="1" />
     <option name="processCloseConfirmation" value="TERMINATE" />
+    <option name="searchInBackground" value="true" />
     <option name="showTipsOnStartup" value="false" />
     <option name="useSafeWrite" value="false" />
   </component>
@@ -10,5 +11,6 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="bigger.font.in.project.view" value="true" />
   </component>
 </application>
