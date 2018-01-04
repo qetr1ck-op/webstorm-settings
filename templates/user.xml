@@ -5,7 +5,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="exp" value="export default $MODULE_NAME$" description="es6-export-default" toReformat="false" toShortenFQNames="true">
+  <template name="exp" value="export * from './$MODULE_NAME$';&#10;$END$" description="es6-export-default" toReformat="false" toShortenFQNames="true">
     <variable name="MODULE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
