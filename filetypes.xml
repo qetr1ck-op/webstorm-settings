@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="enabled" type="PLAIN_TEXT" />
       <mapping ext="dissabled" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="TypeScript" />
       <mapping ext="deps" type="TypeScript" />
       <mapping pattern=".prettierrc" type="YAML" />
     </extensionMap>
