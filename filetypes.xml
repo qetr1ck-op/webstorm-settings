@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="config-db" type="JavaScript" />
       <mapping ext="enabled" type="PLAIN_TEXT" />
       <mapping ext="dissabled" type="PLAIN_TEXT" />
       <mapping pattern="index" type="TypeScript" />
