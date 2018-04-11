@@ -33,11 +33,13 @@
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
-    <option name="SELECTED_INDENT_GUIDE" value="e0e2e4" />
+    <option name="SELECTED_INDENT_GUIDE" value="7a477a" />
     <option name="SELECTED_TEARLINE_COLOR" value="804000" />
     <option name="SELECTION_BACKGROUND" value="622742" />
     <option name="SELECTION_FOREGROUND" value="" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="32424a" />
     <option name="TEARLINE_COLOR" value="2f393c" />
+    <option name="VISUAL_INDENT_GUIDE" value="7a477a" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
