@@ -99,12 +99,14 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="GotoSymbol" />
+  <action id="GotoTest" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="Images.ShowThumbnails" />
   <action id="ImplementMethods" />
   <action id="IncrementalSearch">
     <keyboard-shortcut first-keystroke="ctrl i" />
@@ -115,15 +117,24 @@
   <action id="NextOccurence" />
   <action id="ParameterInfo" />
   <action id="PreviousOccurence" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
   <action id="ShowBookmarks" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -151,6 +162,7 @@
   </action>
   <action id="TypeHierarchy" />
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
   <action id="hg4idea.push" />
 </keymap>
