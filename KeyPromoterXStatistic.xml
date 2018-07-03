@@ -14,7 +14,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+Button1 Click' or 'Button2 Click' or 'F12' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>98</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -198,7 +198,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
