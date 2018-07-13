@@ -11,7 +11,6 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <removed_mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="config-db" type="JavaScript" />
       <mapping pattern=".sequelizerc" type="JavaScript" />
       <mapping pattern="semver" type="PLAIN_TEXT" />
