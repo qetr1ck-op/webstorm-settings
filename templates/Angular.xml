@@ -1,0 +1,21 @@
+<templateSet group="Angular">
+  <template name="a-input" value="@Input() $label$: $type$;" description="@Input" toReformat="true" toShortenFQNames="true">
+    <variable name="label" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="a-output" value="@Output() $fn$ = new EventEmitter&lt;any&gt;();" description="@Output" toReformat="true" toShortenFQNames="true">
+    <variable name="fn" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="a-inject" value="@Inject(AjsProvider.$ngjsDep$)" description="@Inject" toReformat="true" toShortenFQNames="true">
+    <variable name="ngjsDep" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
