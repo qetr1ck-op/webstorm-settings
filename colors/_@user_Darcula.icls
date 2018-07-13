@@ -3,7 +3,7 @@
     <property name="created">2018-07-10T18:09:19</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-07-10T18:16:16</property>
+    <property name="modified">2018-07-13T11:30:46</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -14,5 +14,4 @@
     <option name="FILESTATUS_SUPPRESSED" value="" />
     <option name="FILESTATUS_SWITCHED" value="8978f" />
   </colors>
-
 </scheme>

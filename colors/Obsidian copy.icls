@@ -1,7 +1,8 @@
 <scheme name="Obsidian copy" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -34,6 +35,7 @@
     <option name="SELECTION_BACKGROUND" value="804000" />
     <option name="SELECTION_FOREGROUND" value="e0e2e4" />
     <option name="TEARLINE_COLOR" value="2f393c" />
+    <option name="VISUAL_INDENT_GUIDE" value="4d4d4d" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
