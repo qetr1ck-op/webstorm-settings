@@ -1,11 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.2-2018.1" />
+    <option name="version" value="2.2.3.1" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
     <option name="accentColor" value="7CB342" />
     <option name="statusBarTheme" value="false" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="userId" value="-662fa2f1:1649dc68668:-7fff" />
   </component>
 </application>
