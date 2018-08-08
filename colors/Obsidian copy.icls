@@ -24,15 +24,15 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="293134" />
-    <option name="INDENT_GUIDE" value="804000" />
+    <option name="INDENT_GUIDE" value="" />
     <option name="LINE_NUMBERS_COLOR" value="81969a" />
     <option name="METHOD_SEPARATORS_COLOR" value="2f393c" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="e0e2e4" />
-    <option name="SELECTED_TEARLINE_COLOR" value="804000" />
-    <option name="SELECTION_BACKGROUND" value="804000" />
+    <option name="SELECTED_TEARLINE_COLOR" value="" />
+    <option name="SELECTION_BACKGROUND" value="458383" />
     <option name="SELECTION_FOREGROUND" value="e0e2e4" />
     <option name="TEARLINE_COLOR" value="2f393c" />
     <option name="VISUAL_INDENT_GUIDE" value="4d4d4d" />
@@ -495,7 +495,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff8647" />
+        <option name="FOREGROUND" value="cf7918" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
