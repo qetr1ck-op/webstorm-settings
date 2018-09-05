@@ -1,10 +1,15 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views />
-    <general />
+    <data-views>
+      <option name="showValuesInline" value="false" />
+      <show-values-inline>false</show-values-inline>
+    </data-views>
+    <general>
+      <unmute-on-stop>true</unmute-on-stop>
+    </general>
     <debuggers>
       <debugger id="javascript">
-        <configuration captureAsyncStackTraces="false">
+        <configuration>
           <custom-object-presentation />
         </configuration>
       </debugger>
