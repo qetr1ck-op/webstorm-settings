@@ -18,8 +18,5 @@
     <option name="IS_DND_ENABLED" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-  </component>
+  <component name="LiveEditOptions" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
 </application>
