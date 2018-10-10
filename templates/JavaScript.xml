@@ -5,7 +5,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="spec" value="describe('suite title', () =&gt; {&#10;// declaration&#10;    beforeEach(() =&gt; {&#10;        // initialization&#10;    });&#10;    xit('should ', () =&gt; {&#10;    &#10;    });&#10;});" description="spec" toReformat="true" toShortenFQNames="true">
+  <template name="spec" value="import { Sut } from './sut-filename';&#10;&#10;describe('Module:Sut', () =&gt; {&#10;  let sut: SutType, DI;&#10;&#10;  const setMocks = () =&gt; {&#10;    DI = {};&#10;  };&#10;  const setSut = () =&gt; {&#10;    sut = new Sut(DI);&#10;  };&#10;&#10;  beforeEach(() =&gt; {&#10;    setMocks();&#10;    setSut();&#10;  });&#10;&#10;  it('should ...', () =&gt; {&#10;&#10;  });&#10;});&#10;" description="spec" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
