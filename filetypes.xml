@@ -2,17 +2,19 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern="config-db" type="JavaScript" />
+      <removed_mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".sequelizerc" type="JavaScript" />
+      <mapping pattern="config-db" type="JavaScript" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="semver" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="enabled" type="PLAIN_TEXT" />
