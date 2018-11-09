@@ -1,0 +1,8 @@
+<templateSet group="erlang">
+  <template name="T" value="try&#10;    $SELECTION$&#10;catch&#10;    $CLASS$:$PATTERN$ $GUARD$ -&gt; $END$&#10;end " description="surround with try...catch" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PATTERN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="GUARD" expression="when $GUARD$" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
