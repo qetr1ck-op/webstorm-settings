@@ -1,9 +1,4 @@
 <application>
-  <component name="GithubAccounts">
-    <account id="6d538a67-ac79-4c5c-b400-3ed0b1cdafb3" name="qetr1ck-op">
-      <server host="github.com" />
-    </account>
-  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="oresptustayko@gmail.com" />
     <option name="AUTH_TYPE" value="BASIC" />
