@@ -3,6 +3,5 @@
     <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PATTERN" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="GUARD" expression="when $GUARD$" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
