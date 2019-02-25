@@ -6,6 +6,7 @@
       <mapping pattern=".gitempty" type="PLAIN_TEXT" />
       <mapping pattern="semver" type="PLAIN_TEXT" />
       <mapping pattern="variables.less" type="PLAIN_TEXT" />
+      <mapping pattern="dd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="enabled" type="PLAIN_TEXT" />
       <mapping ext="disabled" type="PLAIN_TEXT" />
